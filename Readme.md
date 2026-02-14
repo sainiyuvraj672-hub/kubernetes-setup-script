@@ -17,7 +17,9 @@ The setup is ideal for **learning, labs, testing, and interview-ready demos**.
 
 .
 ├── install_kubernetes_master.sh
+
 ├── install_kubernetes_worker.sh
+
 └── README.md
 
 ---
@@ -109,4 +111,4 @@ This setup teaches real Kubernetes.
 ## 📌 Author
 
 **Yuvraj**
-Docker & DevOps Learner 🚀
+**Made in feb 2025**
